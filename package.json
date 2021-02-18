@@ -1,5 +1,6 @@
 {
   "name": "tutorial-game-hooks",
+  "description": "Hooks refactor of the Tic Tac Toe tutorial on the React docs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
